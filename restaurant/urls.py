@@ -5,7 +5,7 @@ from rest_framework.routers import DefaultRouter
 from rest_framework.authtoken.views import obtain_auth_token
 
 router = DefaultRouter(trailing_slash=False)
-router.register(r'tables', views.BookingViewSet)
+router.register(r'table', views.BookingViewSet)
   
 urlpatterns = [ 
     path('', views.index, name='index'),
