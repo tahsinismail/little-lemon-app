@@ -8,7 +8,7 @@
 
 
 >Book Table: (only Authenticated User can book)
-- /booking/tables
+- /booking/table
 
 
 >User Authentication:
