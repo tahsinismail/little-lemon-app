@@ -1,16 +1,16 @@
 ## How to
 >Restaurant Menu:
-- /restaurant/menu
-- /restaurant/menu/<int>
+- /menu
+- /menu/<int>
 
 
 >Book Table: (only Authenticated User can book)
-- /restaurant/booking/tables
+- /booking/tables
 
 
 >User Authentication:
 
-- /restaurant/api-token-auth
+- /register/api-token
 
 - /auth/token/login
 
