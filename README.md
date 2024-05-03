@@ -1,7 +1,10 @@
+# Meta Back-end Developer Certification Capstone Project
+
 ## How to
+
 >Restaurant Menu:
 - /menu
-- /menu/<int>
+- /menu/<pk>
 
 
 >Book Table: (only Authenticated User can book)
