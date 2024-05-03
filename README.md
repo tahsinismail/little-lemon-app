@@ -4,7 +4,7 @@
 
 >Restaurant Menu:
 - /menu
-- /menu/<pk>
+- /menu/\<pk>
 
 
 >Book Table: (only Authenticated User can book)
