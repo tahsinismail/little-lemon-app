@@ -1,6 +1,6 @@
 # Meta Back-end Developer Certification Capstone Project
 
-## How to
+## API Routes
 
 >Restaurant Menu:
 - /menu
